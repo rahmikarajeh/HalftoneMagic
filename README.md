@@ -7,8 +7,8 @@ Original URL: halftonez.netlify.app
 Built using Bolt.io and AWS Lambda function.
 Lambda function set up with headless browser using Node.js
 
-Image is sent in, processed on AWS and result is sent back
-using API Gateway.
+Image is sent in, processed on AWS using custom Lambda function
+and result is sent backusing API Gateway.
 
 
     
